@@ -1,5 +1,6 @@
-# Panel-Daten mit R
+# R User Group Treffen am 14.06.2017
 
+**Thema: Panel-Daten mit R**
 von *Dr. Hannes Weber*
 
 **14.06.2017**
